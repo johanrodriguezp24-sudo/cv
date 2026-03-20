@@ -1,0 +1,63 @@
+.header p{
+    margin:2px 0;
+}
+
+body{
+    font-family: "Times New Roman", Times, serif;
+    margin:0;
+    background:white;
+}
+
+.container{
+    width:740px;
+    margin:20px auto;
+    background:white;
+    box-shadow:0px 0px 10px rgba(0,0,0,0.2);
+}
+
+.header{
+    background:#2f6f95;
+    color:white;
+    padding:30px;
+    position: relative;
+}
+
+.header h1{
+    margin:0;
+}
+
+.header h3{
+    margin-top:5px;
+}
+
+.contenido{
+    display:grid;
+    grid-template-columns:1fr 1fr;
+}
+
+.izquierda{
+    background:white;
+    padding:20px;
+}
+
+.derecha{
+    background:#dfeaf0;
+    padding:20px;
+}
+
+h2{
+    color:#2f6f95;
+}
+
+.seccion{
+    margin-top:170px;
+}
+
+ul{
+    margin: 4px 0;
+    padding-left:20px;
+}
+
+.izquierda p{
+    margin:4px 0;
+}
